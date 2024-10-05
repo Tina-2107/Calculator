@@ -1,0 +1,23 @@
+
+main{
+    border: 1px solid rgb(94, 86, 86);
+    width: 200px;
+    margin: 50px;
+    padding: auto;
+}
+.output{
+    margin: 10px;
+    width: 86%;
+    font-size: 25px;
+}
+.btn{
+width: 50px;
+height: 40px;
+margin: 4px;
+}
+.input{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2px;
+}
